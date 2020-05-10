@@ -1,1 +1,3 @@
 I'm a feature A!
+Feature B!!
+Fix conflict
